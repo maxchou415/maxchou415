@@ -26,5 +26,5 @@ Recently, I am applying for college which is major in **Computer Science**, sinc
 
 - [Resume](https://www.cakeresume.com/maxchou), Always looking for good opportunity!
 - Direct contact
-  - Email: `maxchou415+work(at)gmail.com`
+  - Email: `maxchou415+work at gmail.com`
   - Medium: https://medium.com/@maxchou415
