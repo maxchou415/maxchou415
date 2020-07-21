@@ -28,3 +28,4 @@ Recently, I am applying for college which is major in **Computer Science**, sinc
 - Direct contact
   - Email: `maxchou415+work at gmail.com`
   - Medium: https://medium.com/@maxchou415
+  - LinkedIn: https://www.linkedin.com/in/maxchou415/
