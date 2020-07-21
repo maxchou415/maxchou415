@@ -4,7 +4,7 @@ I am Max, a Software Engineer. Mainly focusing on back-end development and archi
 
 ### Current career 👨🏻‍💻
 
-I am currently working in several teams with positioning **Remote Software Engineer** and **Software Engineering Lead**, And of course, I am a digital nomad!
+I am currently working in several teams with positioning **Software Engineer** and **Software Engineering Lead**, And of course, I am a digital nomad!
 
 ### Lifestyle 🏖
 
