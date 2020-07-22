@@ -19,9 +19,14 @@ Recently, I am applying for college which is major in **Computer Science**, sinc
 - **Y Combinator Startup School 2016** in *Cupertino, CA*.
   - Operated by famously, globally invest company.
   - Applied with my startup project! 
-- **TEDx JianGuoHighSchool Speaker** in *Taipei, Taiwan*.
+- **TEDx JianGuoHighSchool (建國中學) Speaker** in *Taipei, Taiwan*.
   - Taiwanese top high school.
   
+### Programming 👾
+
+- Gitlab: https://gitlab.com/maxchou415
+- Leetcode: https://leetcode.com/maxchou/
+
 ### Ways to know more about me 📬
 
 - [Resume](https://www.cakeresume.com/maxchou), Always looking for good opportunity!
@@ -29,3 +34,7 @@ Recently, I am applying for college which is major in **Computer Science**, sinc
   - Email: `maxchou415+work at gmail.com`
   - Medium: https://medium.com/@maxchou415
   - LinkedIn: https://www.linkedin.com/in/maxchou415/
+
+### Donation 🤑🙇🏼‍♂️
+- [PayPal](https://paypal.me/maxchou)
+- [Square Cash](https://cash.app/$lazymaxsf)
