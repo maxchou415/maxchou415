@@ -4,15 +4,15 @@ I am Max, a Software Engineer. Mainly focusing on back-end development and archi
 
 ### Current career 👨🏻‍💻
 
-I am currently working in several teams with positioning **Software Engineer** and **Software Engineering Lead**, And of course, I am a digital nomad!
+I am currently working in several teams with positioning **Software Engineer** and **Software Engineering Lead**, and building my own startup project. And of course, I am a digital nomad!
 
 ### Lifestyle 🏖
 
 I love to talk with people who have strong self-cognition. Cooking, hangout with friends, or even having a house party! 🥳
 
-### Working on 👨🏻‍🎓
+### Education 🎓
 
-Recently, I am applying for college which is major in **Computer Science**, since I think that is time to have more domain-knowledge of computer science. Please let me know If you have good advice about applying for a college!
+- Computer Science at University of London.
 
 ### Cool Experiences 🤩
 
