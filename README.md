@@ -4,7 +4,7 @@ I am Max, a Software Engineer. Mainly focusing on back-end development and archi
 
 ### Current career 👨🏻‍💻
 
-I am currently working in several teams with positioning **Software Engineer** and **Software Engineering Lead**, and building my own startup project. And of course, I am a digital nomad!
+Chief Technology Officer at [Actuaviz](https://actuaviz.com)
 
 ### Lifestyle 🏖
 
@@ -12,7 +12,8 @@ I love to talk with people who have strong self-cognition. Cooking, hangout with
 
 ### Education 🎓
 
-- Computer Science at University of London.
+- Computer Science at National Taiwan University.
+- Computer Science at University of London. (Deferred. Originally was Oct. 2020 Entry)
 
 ### Cool Experiences 🤩
 
