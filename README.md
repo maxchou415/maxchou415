@@ -4,7 +4,7 @@ I am Max, a Software Engineer. Mainly focusing on back-end development and archi
 
 ### Current career 👨🏻‍💻
 
-Chief Technology Officer at [Actuaviz](https://actuaviz.com)
+Chief Technology Officer at [ActuaViz](https://actuaviz.com)
 
 ### Lifestyle 🏖
 
