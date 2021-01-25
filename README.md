@@ -32,7 +32,7 @@ I love to talk with people who have strong self-cognition. Cooking, hangout with
 
 - [Resume](https://www.cakeresume.com/maxchou), Always looking for good opportunity!
 - Direct contact
-  - Email: `maxchou415+work at gmail.com`
+  - Email: `hello at maxchou.dev`
   - Medium: https://medium.com/@maxchou415
   - LinkedIn: https://www.linkedin.com/in/maxchou415/
 
