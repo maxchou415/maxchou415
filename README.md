@@ -30,9 +30,9 @@ I love to talk with people who have strong self-cognition. Cooking, hangout with
 
 ### Ways to know more about me 📬
 
-- [Resume](https://www.cakeresume.com/maxchou), Always looking for good opportunity!
+- [Resume](https://www.cakeresume.com/maxchou). Good opportunities are welcome!
 - Direct contact
-  - Email: `hello at maxchou.dev`
+  - Email: `max at csie.org` or `hello at maxchou.dev`
   - Medium: https://medium.com/@maxchou415
   - LinkedIn: https://www.linkedin.com/in/maxchou415/
 
