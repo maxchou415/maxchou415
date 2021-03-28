@@ -12,17 +12,17 @@ I love to talk with people who have strong self-cognition. Cooking, hangout with
 
 ## Education 🎓
 ```
-                                          🔔  🏡🏡🏡         
+                  🔔  🏡🏡🏡         
 
-                                          🌲🌻🌻🌻🌻🌻🌻🌲
-                                          🌲🌻🌻🌻🌻🌻🌻🌲
+                  🌲🌻🌻🌻🌻🌻🌻🌲
+                  🌲🌻🌻🌻🌻🌻🌻🌲
 
-                                         🌴      |     🌴 
-                                        🌴       |      🌴
-                                       🌴       🐵       🌴
-                                      🌴        🚲        🌴
-                                     🌴          |         🌴
-                                    🌴           |          🌴
+                 🌴      |     🌴 
+                🌴       |      🌴
+               🌴       🐵       🌴
+              🌴        🚲        🌴
+             🌴          |         🌴
+            🌴           |          🌴
 ```
 * Computer Science at National Taiwan University.
 * Computer Science at University of London. \(Deferred. Originally was Oct. 2020 Entry\)
