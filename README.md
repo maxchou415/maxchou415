@@ -1,4 +1,4 @@
-# 嗨，你正在踩我的草皮。
+# Hey! You are stepping on my grass.
 
 I am Max, a Software Engineer. Mainly focusing on back-end development and architecture designing, also familiar with front-end development.
 
@@ -11,7 +11,19 @@ Chief Technology Officer at [ActuaViz](https://actuaviz.com)
 I love to talk with people who have strong self-cognition. Cooking, hangout with friends, or even having a house party! 🥳
 
 ## Education 🎓
+```
+                                          🔔  🏡🏡🏡         
 
+                                          🌲🌻🌻🌻🌻🌻🌻🌲
+                                          🌲🌻🌻🌻🌻🌻🌻🌲
+
+                                         🌴      |     🌴 
+                                        🌴       |      🌴
+                                       🌴       🐵       🌴
+                                      🌴        🚲        🌴
+                                     🌴          |         🌴
+                                    🌴           |          🌴
+```
 * Computer Science at National Taiwan University.
 * Computer Science at University of London. \(Deferred. Originally was Oct. 2020 Entry\)
 
