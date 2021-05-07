@@ -35,6 +35,7 @@ I love to talk with people who have strong self-cognition. Cooking, hangout with
   * Applied with my startup project! 
 * **TEDx JianGuoHighSchool \(建國中學\) Speaker** in _Taipei, Taiwan_.
   * Taiwanese top high school.
+  * [Presentation link](https://www.youtube.com/watch?v=bC2qlPmPJs8)
 
 ## Programming 👾
 
