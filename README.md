@@ -55,4 +55,4 @@ I love to talk with people who have strong self-cognition. Cooking, hangout with
 * [Square Cash](https://cash.app/$lazymaxsf)
 
 ## For traditional chinese reader 中文讀者
-請詳見此連結 - [Link](https://github.com/maxchou415/maxchou415/README.zh-tw.md).
+請詳見此連結 - [Link](https://github.com/maxchou415/maxchou415/blob/master/README.zh-tw.md).
