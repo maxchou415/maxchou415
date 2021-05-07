@@ -54,5 +54,5 @@ I love to talk with people who have strong self-cognition. Cooking, hangout with
 * [PayPal](https://paypal.me/maxchou)
 * [Square Cash](https://cash.app/$lazymaxsf)
 
-## For traditional Chinese reader 中文讀者
+## For traditional chinese reader 中文讀者
 請詳見此連結 - [Link](https://github.com/maxchou415/maxchou415/README.zh-tw.md).
