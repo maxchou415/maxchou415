@@ -21,7 +21,7 @@
 ## 可以用以下的方法更了解我！ 📬
 - [履歷表（英文）](https://www.cakeresume.com/maxchou)
 - [維基百科](https://zh.wikipedia.org/zh-tw/%E5%91%A8%E5%A5%95%E5%8B%B3)
-- 聯繫方式
+- 聯絡方式
   - 電子郵件: `max at csie.org` 或 `hello at maxchou.dev`
   - Medium: [https://medium.com/@maxchou415](https://medium.com/@maxchou415)
   - LinkedIn: [https://www.linkedin.com/in/maxchou415/](https://www.linkedin.com/in/maxchou415)
