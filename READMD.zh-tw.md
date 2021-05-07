@@ -31,4 +31,4 @@
 - [Square Cash](https://cash.app/$lazymaxsf)
 
 ## For English reader
-Please visit - [Link](https://github.com/maxchou415/maxchou415/README.md).
+Please visit - [Link](https://github.com/maxchou415/maxchou415/blob/master/READMD.md).
