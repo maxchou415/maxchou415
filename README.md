@@ -4,7 +4,8 @@ I am Max, a Software Engineer. Mainly focusing on back-end development and archi
 
 ## Current career 👨🏻‍💻
 
-Chief Technology Officer at [ActuaViz](https://actuaviz.com)
+- Technical Research Fellow at [IAMS, Academia Sinica (中研院)](https://www.sinica.edu.tw)
+- Chief Technology Officer at [ActuaViz](https://actuaviz.com)
 
 ## Lifestyle 🏖
 
@@ -53,3 +54,5 @@ I love to talk with people who have strong self-cognition. Cooking, hangout with
 * [PayPal](https://paypal.me/maxchou)
 * [Square Cash](https://cash.app/$lazymaxsf)
 
+## For traditional Chinese reader 中文讀者
+請詳見此連結 - [Link](https://github.com/maxchou415/maxchou415/README.zh-tw.md).
