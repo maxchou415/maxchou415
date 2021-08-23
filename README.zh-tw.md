@@ -4,7 +4,6 @@
 
 ## 目前任職 👨🏻‍💻
 - [中央研究院](https://www.sinica.edu.tw) - 研發人員
-- [ActuaViz](https://actuaviz.com) - 技術長
 
 ## 學經歷 🎓
 - 國立臺灣大學 - 創意創業學程
