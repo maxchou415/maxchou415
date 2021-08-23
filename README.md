@@ -5,7 +5,6 @@ I am Max, a Software Engineer. Mainly focusing on back-end development and archi
 ## Current career 👨🏻‍💻
 
 - Technical Research Fellow at [IAMS, Academia Sinica (中研院)](https://www.sinica.edu.tw)
-- Chief Technology Officer at [ActuaViz](https://actuaviz.com)
 
 ## Lifestyle 🏖
 
