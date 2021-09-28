@@ -1,6 +1,6 @@
 # Hey! You are stepping on my grass.
 
-I am Max, was a full-time Software Engineer. Have worked for few firms in the past 5 years, during my career I was working as a Director of Software Engineering that mainly focus on team management and software architecture design. Since Mid-2021 I back to college for more interesting things, I am now studying Computer Science at National Taiwan University.
+I am Max, was a full-time Software Engineer. Have worked for few firms in the past 5 years, during my career I was working as a Software Engineer / Director of Software Engineering that mainly focuses on team management and software architecture design. Since Mid-2021 I back to college for more interesting things, I am now studying Computer Science at National Taiwan University.
 
 ## Lifestyle 🏖
 
