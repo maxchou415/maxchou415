@@ -35,7 +35,7 @@ I love to talk with people who have strong self-cognition. Cooking, hangout with
 
 ## Activities and Societies
 * Director of Software Engineering - [NTU GSA](https://www.graduation.ntu.edu.tw)
-* Director of Software Engineering - [MineNTU](https://minecraft.myntu.me) - We built an NTU online campus.
+* Director of Software Engineering - [Minecraft NTU](https://minecraft.myntu.me) - We built an NTU online campus.
 * [NTU CSIE Council](https://council.csie.ntu.edu.tw)
 
 ## Programming 👾
