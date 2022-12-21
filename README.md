@@ -1,10 +1,6 @@
 # Hey! You are stepping on my grass.
 
-I am Max, was a full-time Software Engineer. Have worked for few firms in the past 5 years, during my career I was working as a Software Engineer / Director of Software Engineering that mainly focuses on team management and software architecture design. Since Mid-2021 I back to college for more interesting things. Now I am studying Computer Science at National Taiwan University.
-
-## Lifestyle 🏖
-
-I love to talk with people who have strong self-cognition. Cooking, hangout with friends, or even having a house party! 🥳
+I am Max, a Software Engineer based in Vancouver, Canada. I have been working as a Software Engineer for 5 more years. In my past experience, I was mainly focusing on full-stack development on the technical side. Besides that, I was also responsible for software evaluations with business strategies.
 
 ## Education 🎓
 ```
@@ -27,7 +23,7 @@ I love to talk with people who have strong self-cognition. Cooking, hangout with
 ## Cool Experiences 🤩
 
 * **Y Combinator Startup School 2016** in _Cupertino, CA_.
-  * Operated by famously, globally invest company.
+  * Operated by famous, global investment company.
   * Applied with my startup project! 
 * **TEDx JianGuoHighSchool \(建國中學\) Speaker** in _Taipei, Taiwan_.
   * Taiwanese top high school.
@@ -45,7 +41,7 @@ I love to talk with people who have strong self-cognition. Cooking, hangout with
 
 ## Ways to know more about me 📬
 
-* [Resume](https://www.cakeresume.com/maxchou). Good opportunities are welcome!
+* [Resume](https://to.maxchou.dev/resume-v3-public). Good opportunities are welcome!
 * Direct contact
   * Email: `max at csie.org` or `hello at maxchou.dev`
   * [Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%91%A8%E5%A5%95%E5%8B%B3)
