@@ -52,6 +52,7 @@ I am Max, a Software Engineer based in Vancouver, Canada. I have been working as
 
 * [PayPal](https://paypal.me/maxchou)
 * [Square Cash](https://cash.app/$lazymaxsf)
+* [Credit Card via Stripe](https://buy.stripe.com/7sI02a6at1ng6Mo4gg)
 
 ## For traditional chinese reader 中文讀者
 請詳見此連結 - [Link](https://github.com/maxchou415/maxchou415/blob/master/README.zh-tw.md).
