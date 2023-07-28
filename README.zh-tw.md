@@ -29,6 +29,7 @@
 ## 贊助 Max 🤑🙇🏼‍♂️
 - [PayPal](https://paypal.me/maxchou)
 - [Square Cash](https://cash.app/$lazymaxsf)
+- [信用卡（經由 Stripe）](https://buy.stripe.com/7sI02a6at1ng6Mo4gg)
 
 ## For English reader
 Please visit - [Link](https://github.com/maxchou415/maxchou415/blob/master/README.md).
