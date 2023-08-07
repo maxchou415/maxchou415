@@ -1,9 +1,6 @@
 # 嗨！你踩到我的草地了！
 
-我是 Max，一名軟體工程師，主要負責之軟體工程領域為**後端開發**與**軟體架構設計**，並有前端開發經驗。曾任職於舊金山新創公司與中國網路新創公司。
-
-## 目前任職 👨🏻‍💻
-- [中央研究院](https://www.sinica.edu.tw) - 研發人員
+我是 Max，一名軟體工程師，現居加拿大溫哥華。主要負責之軟體工程領域為**後端開發**與**軟體架構設計**，並有前端開發經驗。現職於東京新創公司，曾任職於加拿大、舊金山新創公司與中國網路新創公司。
 
 ## 學經歷 🎓
 - 國立臺灣大學 - 創意創業學程
@@ -19,7 +16,7 @@
 - Leetcode: [https://leetcode.com/maxchou/](https://leetcode.com/maxchou)
 
 ## 可以用以下的方法更了解我！ 📬
-- [履歷表（英文）](https://www.cakeresume.com/maxchou)
+- [履歷表（英文）](http://to.maxchou.dev/resume-v3-public)
 - [維基百科](https://zh.wikipedia.org/zh-tw/%E5%91%A8%E5%A5%95%E5%8B%B3)
 - 聯絡方式
   - 電子郵件: `max at csie.org` 或 `hello at maxchou.dev`
