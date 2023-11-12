@@ -18,7 +18,7 @@ I am Max, a Software Engineer based in Vancouver, Canada. I have been working as
 ```
 * Creativity and Entrepreneurship Program at National Taiwan University.
 * Computer Science at National Taiwan University.
-* Computer Science at University of London. \(Deferred. Originally was Oct. 2020 Entry\)
+* BSc Computer Science at the University of London. \(Dropped out\)
 
 ## Cool Experiences 🤩
 
